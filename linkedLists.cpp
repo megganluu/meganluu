@@ -1,4 +1,4 @@
-// Megan Luu - CIS22C Summer De Anzza
+// Megan Luu
 // 7/11/2023
 // This program creates and tests the following data structures:
 // single linked list, double linked list, stack, and queue
