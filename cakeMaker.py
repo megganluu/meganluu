@@ -1,8 +1,5 @@
 """
 ***************************************************************************
-Filename:      lab8.py
-
-Author:        Megan Luu
 
 Date:          2023-6-22
 
@@ -141,10 +138,6 @@ class Cake:
             Outputs: Nothing
 
             Returns: Nested list of name and weight for each ingredient
-
-            Author:  Megan Luu
-
-            Date:    2023-6-22
 
             Description:
             This function creates 3 lists, uses a dictionary of name and weight percentages for each ingredient, and
