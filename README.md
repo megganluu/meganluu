@@ -1,1 +1,1 @@
-# meganluu
+# My name is Megan Luu and I am a sophomore Computer Science student. This repository includes many of my class projects as well as personal projects that showcase my skillset and creativity as a programmer.
