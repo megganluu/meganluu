@@ -1,3 +1,5 @@
+THIS TEXT FILE IS USED FOR THE MOVIE SEARCH PROGRAM
+
 Skyfall, 1.109, Sam Mendes, 11/9/12, 143 
 Avengers: Age of Ultron, 1.405, Joss Whedon, 5/1/15, 141 
 Harry Potter and the Deathly Hallows - Part 2, 1.342, David Yates, 7/15/11, 130 
